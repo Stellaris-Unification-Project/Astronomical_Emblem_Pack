@@ -34,5 +34,5 @@ tags={
 	"Warhammer"
 }
 picture="astronomical.jpg"
-supported_version="2.8.1"
+supported_version="3.2.2"
 remote_file_id="1302897684"
